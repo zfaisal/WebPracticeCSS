@@ -1,0 +1,27 @@
+body {
+  background-color: orange;
+
+}
+
+h1 {
+  background: green;
+  width: 20%;
+  margin: 0 auto;
+}
+
+#total {
+  left:25%;
+  right:25%;
+  position:absolute;
+  cursor:  pointer;
+  border-style: solid;
+  border-color: red;
+  display: inline-block;
+}
+
+.sublelement {
+  float: left;
+  border-style: solid;
+  border-width: thick;
+
+}
